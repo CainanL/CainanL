@@ -5,7 +5,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 ### Minhas Stacks
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; justify-content:center; align-items:center, gap:5px">
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
