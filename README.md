@@ -1,9 +1,13 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 
 ## Olá, me chamo Cainan Luyles ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
 ## Minhas Stacks
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
 <i class="devicon-arduino-plain-wordmark"></i>
 <i class="devicon-bootstrap-plain-wordmark"></i>
 <i class="devicon-csharp-plain"></i>
