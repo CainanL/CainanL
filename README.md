@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 
-## Engenheiro de Computação | Pós Graduando em Engenharia de Software 
+## Engenheiro de Computação | Pós Graduando em Engenharia de Controle e Automação 
 ### Bem vindo ao meu perfil GitHub 👋
 
 ### Minhas Stacks
