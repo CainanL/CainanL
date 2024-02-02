@@ -8,5 +8,6 @@
 ## Contatos:
 <div>
 <a href = "mailto:engenharia@komput.com.br">E-mail: engenharia@komput.com.br</a>
+<br/>
 <a href="https://www.linkedin.com/in/cainan-luyles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
