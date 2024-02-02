@@ -3,7 +3,7 @@
 
 ## Engenheiro de Computação | Pós Graduando em Engenharia de Controle e Automação | Pós Graduando em Engenharia de Controle e Automação 
 
-### Android developer | Backend developer | Java | Kotlin | Spring Boot 👋       
+### Android developer | Backend developer | Java | Kotlin | Typescript | Spring Boot | NodeJS | React |React Native       
 
 ## Contatos:
 <div>
