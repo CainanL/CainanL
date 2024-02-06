@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 
-## Engenheiro de Computação | Pós Graduando em Engenharia de Controle e Automação | Pós Graduando em Engenharia de Controle e Automação 
+## Engenheiro de Computação | Pós Graduando em Engenharia de Controle e Automação | Pós Graduando em Engenharia Eletrica
 
-### Android developer | Backend developer | Java | Kotlin | Typescript | Spring Boot | NodeJS | React | React Native       
+### Backend developer | Full Stack Developer | Game Developer | C# | Java | Kotlin | Typescript | Spring Boot | NodeJS | React | React Native       
 
 ## Contatos:
 <div>
