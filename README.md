@@ -3,8 +3,7 @@
 
 ## Engenheiro de Computação | Pós Graduando em Engenharia de Controle e Automação | Pós Graduando em Engenharia Eletrica
 
-### Backend developer | Full Stack Developer | Game Developer | C# | Java | Kotlin | Typescript | Spring Boot | NodeJS | React | React Native       
-
+### Soluções em softwares escaláveis | automação de processos industriais | engenharia elétrica aplicada a projetos de alta performance
 ## Contatos:
 <div>
 <a href = "mailto:engenharia@komput.com.br">E-mail: engenharia@komput.com.br</a>
